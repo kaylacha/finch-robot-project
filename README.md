@@ -2,6 +2,7 @@
 
 ## Essential Question
 How can we apply object-oriented programming principles and Java concepts to create interactive, autonomous robot behaviors that solve real-world challenges?
+We can program robots using different java concepts such as different method signatures in order to move the robot in any direction you want, change the color, add audio, etc... Esentially you are able to code the robot which can be applied in the real world by coding a robot to do a task. 
 
 ## Project Overview
 In this project-based learning experience, you will program a Finch 2.0 robot to perform one of three challenges:
@@ -117,4 +118,4 @@ If you complete your chosen challenge early, consider:
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
 
-Our project was based on Squid Game's first game from season 1: Red Light, Green Light. The finch acts like the doll and moves its body while flashing either a red or green light. 
+Our project was loosley based on the show Squid Games. We had our robot move in different directions and changing colors from blue to red when moving in a 180 direction. Towards the end, we made our robot complete multiple 360 turns. Our colors were chosen through Squid Games however we wanted to incorporate the blue colors as well. A challenge we faced in this project was figuring out how to implement the colors. At first we only had 1 parameter which did not work. However after looking back at the java references we then added 3 parameters which allowed the code to work properly. We also struggled with making the robot stop because although the robot would work it wouldn't stop. This is where we decided to swicth c++ to a++ which added a value to a making the robot stop. Towards the end of this project we decided to finish off with extra back and forth movement and turns for the robot for more complexity. 

@@ -116,3 +116,5 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+Our project was based on Squid Game's first game from season 1: Red Light, Green Light. The finch acts like the doll and moves its body while flashing either a red or green light. 
